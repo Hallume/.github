@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hallume/.github/main/profile/hallume-icon.png" alt="Hallume" width="140" />
+  <img src="https://raw.githubusercontent.com/Hallume/.github/main/profile/hallume-icon.svg" alt="Hallume" width="160" />
 </p>
 
 <h1 align="center">Hallume</h1>
